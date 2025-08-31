@@ -44,6 +44,7 @@
 # 文档
 
 安装及使用：https://233boy.com/xray/xray-script/
+`bash <(wget -qO- -o- https://github.com/FTDRTD/Xray/raw/main/install.sh)`
 
 # 帮助
 
